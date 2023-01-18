@@ -1,6 +1,6 @@
 # US Pregnancy
 
-This project is an academic piece that examined factors that influence total number of children among women. The data set used was retrieved from the GSS website at https://gss.norc.org/get-the-data/spss in the year 2015 under the heading **Individual Year Data Sets (cross-section only)**. Therefore, all credit is given to the GSS team. 
+This project is an academic piece that examined factors that influence total number of children among women. The data set used was retrieved from the GSS website at https://gss.norc.org/get-the-data/spss in the year 2015 under the heading **Individual Year Data Sets (cross-section only)**. I acknowledge the authors for preparation and publication of said data set.
 
 All analyses were done using SPSS on the GSS 2010 data set. 
 
