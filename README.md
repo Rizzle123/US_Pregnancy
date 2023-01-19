@@ -6,7 +6,7 @@ All analyses were done using SPSS on the GSS 2010 data set.
 
 
 
-The codes for the study can be seen below and copy was made available in my report :
+The codes for the study can be seen below. A copy was also made available in my report.
 
 1.	FREQUENCIES VARIABLES=sex
            /ORDER=ANALYSIS.
